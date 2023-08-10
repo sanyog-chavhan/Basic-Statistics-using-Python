@@ -8,7 +8,6 @@ This repository hosts a Google Colab notebook aimed at providing a hands-on intr
 1. [Dataset Description](#dataset-description)
 2. [Exploring Statistical Concepts](#exploring-statistical-concepts)
 3. [How to Use the Notebook](#how-to-use-the-notebook)
-4. [Connect with Me](#connect-with-me)
 
 ## Dataset Description
 
