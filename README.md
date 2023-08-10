@@ -35,10 +35,6 @@ The above dataset contains details of different Baseball Teams and their yearly 
 
 ## Exploring Statistical Concepts
 
-Certainly! Here are definitions for each of the statistical concepts in layman's terms:
-
-## Exploring Statistical Concepts
-
 ### Mean:
 The **mean** is like the average of a group of numbers. It's calculated by adding up all the numbers and then dividing by how many there are. It gives us an idea of what a "typical" value in the group might be.
 
