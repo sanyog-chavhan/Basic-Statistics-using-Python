@@ -58,7 +58,7 @@ Follow these steps to start exploring the statistical concepts using the provide
 
 2. **Open in Google Colab:** If you're using Google Colab, you can directly open the notebook by clicking on the "Open in Colab" button at the top of the notebook file.
 
-3. **Upload to Google Colab:** If you prefer to use Google Colab via your browser, upload the downloaded notebook (`notebook.ipynb`) to your Google Drive. Then, open it with Google Colab by right-clicking the file and selecting "Open with" > "Google Colaboratory".
+3. **Upload to Google Colab:** If you prefer to use Google Colab via your browser, upload the downloaded notebook (`notebook.ipynb`) and the csv file to your Google Drive. Then, open it with Google Colab by right-clicking the file and selecting "Open with" > "Google Colaboratory".
 
 4. **Interact with the Notebook:** Once the notebook is open, you can follow along with the code cells. Execute the code cells by clicking the "Run" button or using the keyboard shortcut (Shift + Enter).
 
